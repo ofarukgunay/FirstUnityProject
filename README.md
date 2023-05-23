@@ -1,3 +1,2 @@
-# FirstUnityProject
-### This project is the first project I started to develop in the training given by the Game and Application Academy.
-#### We started by writing the general functions of our character first.
+# Game Codes
+### The codes I have written with the C# software language in the game projects I have made.
